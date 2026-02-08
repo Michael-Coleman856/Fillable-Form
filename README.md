@@ -1,10 +1,7 @@
 Word Form Redesign — Plain Document to Fillable Form
 
-Project Overview
-Include:
+<h2>Project Overview</h2>
 
-what the form is for
-
-what the goal was
-
-what you improved
+- What the form is for
+- What the goal was
+- What you improved
