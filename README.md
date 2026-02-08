@@ -28,3 +28,5 @@ This project demonstrates how I redesigned a plain Word document into a structur
 <h2>✅ Updated Form Summary (After)</h2>
 
 This redesigned version improves the original Cookie Order Form by converting it into a structured, fillable document with clear input areas. The updated layout improves usability by guiding the user on exactly where to enter information, reducing the chance of incomplete submissions.
+
+<b>Key Improvements Shown</b>
