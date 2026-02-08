@@ -39,3 +39,10 @@ This redesigned version improves the original Cookie Order Form by converting it
 - Improved readability by clearly separating fields and keeping labels consistent
 - Reduced user confusion by preventing “free typing anywhere” on the page
 - Overall, the redesigned form improves completion accuracy, supports consistent data collection, and creates a more user-friendly experience.
+
+<h2>🛠 Tools Used</h2>
+
+- Microsoft Word — form layout redesign, formatting, and document structure
+- Microsoft Word Developer Tools — fillable form controls (text fields, dropdowns, checkboxes)
+- Windows Snipping Tool — screenshots for documentation
+- GitHub — project documentation and portfolio presentation
