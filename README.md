@@ -24,3 +24,7 @@ This project demonstrates how I redesigned a plain Word document into a structur
 - Not fillable (users had to type freely with no guidance)
 - Increased risk of missing required information or entering inconsistent data
 - Limited error prevention (no required fields, dropdowns, or validation)
+
+<h2>✅ Updated Form Summary (After)</h2>
+
+This redesigned version improves the original Cookie Order Form by converting it into a structured, fillable document with clear input areas. The updated layout improves usability by guiding the user on exactly where to enter information, reducing the chance of incomplete submissions.
