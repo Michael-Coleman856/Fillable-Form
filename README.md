@@ -55,3 +55,4 @@ This redesigned version improves the original Cookie Order Form by converting it
 - Reducing user error through standardized input (dropdowns, checkboxes)
 - Improving form completion flow through section organization
 - Documenting changes clearly using before/after visuals and written summaries
+- Attention to detail and accuracy when designing forms used for data collection
