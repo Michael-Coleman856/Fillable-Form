@@ -46,3 +46,12 @@ This redesigned version improves the original Cookie Order Form by converting it
 - Microsoft Word Developer Tools — fillable form controls (text fields, dropdowns, checkboxes)
 - Windows Snipping Tool — screenshots for documentation
 - GitHub — project documentation and portfolio presentation
+
+<h2>💡 Skills Demonstrated</h2>
+
+- Forms redesign and layout improvement for clarity and usability
+- Converting static documents into structured fillable forms
+- Applying consistent formatting, spacing, and alignment
+- Reducing user error through standardized input (dropdowns, checkboxes)
+- Improving form completion flow through section organization
+- Documenting changes clearly using before/after visuals and written summaries
