@@ -16,3 +16,11 @@ This project demonstrates how I redesigned a plain Word document into a structur
   
 <img width="414" height="463" alt="image" src="https://github.com/user-attachments/assets/d67b6d71-f3fa-4eb7-9951-8d509f1ed872" /> <img width="391" height="508" alt="image" src="https://github.com/user-attachments/assets/255c6132-0803-4963-8e95-218fa1c93c64" />
 
+<h2>What Was Wrong With the Original</h2>
+
+- No clear section structure or visual hierarchy
+- Hard to scan quickly due to dense layout
+- Inconsistent spacing, alignment, and field placement
+- Not fillable (users had to type freely with no guidance)
+- Increased risk of missing required information or entering inconsistent data
+- Limited error prevention (no required fields, dropdowns, or validation)
