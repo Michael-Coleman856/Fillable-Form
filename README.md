@@ -9,3 +9,7 @@
 This project demonstrates how I redesigned a plain Word document into a structured, fillable form. The updated version improves readability, adds clear sections, and introduces fillable fields to reduce user errors and support consistent data collection.
 
 <h2>Before vs After (screenshots)</h2>
+
+- Screenshot of the original plain form
+- Screenshot of the redesigned form
+- Close-up screenshot showing fillable fields
