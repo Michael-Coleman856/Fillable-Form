@@ -29,4 +29,13 @@ This project demonstrates how I redesigned a plain Word document into a structur
 
 This redesigned version improves the original Cookie Order Form by converting it into a structured, fillable document with clear input areas. The updated layout improves usability by guiding the user on exactly where to enter information, reducing the chance of incomplete submissions.
 
+<img width="391" height="508" alt="image" src="https://github.com/user-attachments/assets/8332b35d-3bab-4e20-a92a-70b0f287100f" />
+
 <b>Key Improvements Shown</b>
+
+- Added fillable text fields for consistent user input
+- Converted cookie selections into checkbox options for faster completion
+- Added dropdown fields (ex: “How did you hear about us?” and delivery method) to standardize responses
+- Improved readability by clearly separating fields and keeping labels consistent
+- Reduced user confusion by preventing “free typing anywhere” on the page
+- Overall, the redesigned form improves completion accuracy, supports consistent data collection, and creates a more user-friendly experience.
